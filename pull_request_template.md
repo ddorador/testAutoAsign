@@ -1,9 +1,9 @@
-########50 characters############################
-Subject
-########72 characters##################################################
-Problem
-# Problem, Task, Reason for Commit
-Solution
-# Solution or List of Changes
-Note
-# Special instructions, testing steps, rake, etc
+---
+name: "Feature Request"
+about: "Request a feature"
+title: "feat: "
+labels: "feature-request, not-reviewed"
+assignees: "derekprior, tooomm"
+---
+
+Body of my template
